@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+gtts
+Pillow
+scikit-learn
+matplotlib
